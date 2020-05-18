@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\UpWork\PageObjects\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\User\source\repos\UpWork\PageObjects\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\User\source\repos\UpWork\PageObjects\bin\Debug\nunit.engine.dll
+C:\Users\User\source\repos\UpWork\PageObjects\bin\Debug\nunit.engine.api.dll
+C:\Users\User\source\repos\UpWork\PageObjects\bin\Debug\PageObjects.dll
+C:\Users\User\source\repos\UpWork\PageObjects\bin\Debug\PageObjects.pdb
+C:\Users\User\source\repos\UpWork\PageObjects\bin\Debug\nunit.framework.dll
+C:\Users\User\source\repos\UpWork\PageObjects\bin\Debug\WebDriver.dll
+C:\Users\User\source\repos\UpWork\PageObjects\bin\Debug\nunit.framework.pdb
+C:\Users\User\source\repos\UpWork\PageObjects\bin\Debug\nunit.framework.xml
+C:\Users\User\source\repos\UpWork\PageObjects\bin\Debug\WebDriver.xml
+C:\Users\User\source\repos\UpWork\PageObjects\obj\Debug\PageObjects.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UpWork\PageObjects\obj\Debug\PageObjects.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UpWork\PageObjects\obj\Debug\PageObjects.csproj.CopyComplete
+C:\Users\User\source\repos\UpWork\PageObjects\obj\Debug\PageObjects.dll
+C:\Users\User\source\repos\UpWork\PageObjects\obj\Debug\PageObjects.pdb
